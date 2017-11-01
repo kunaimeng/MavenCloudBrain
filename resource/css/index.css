@@ -1,0 +1,46 @@
+*{margin:0px;padding:0px;}
+#header{width:100%;height:80px;}
+#header .h_content{width:1200px;margin:0 auto;height:100%;}
+#header .h_content span{line-height: 80px;cursor: pointer;font-size: 40px;}
+#header .h_content span a{float:left;}
+#header .h_content a{float: right;line-height: 80px;margin:0 5px 0 5px;text-decoration: none;cursor: pointer;color:#fff ! important;}
+
+#box{width:1200px;height:200px;margin:0px auto;overflow:hidden;}
+#box ul{width:1210px;}
+#box ul li{list-style:none;width:200px;height:200px;float:left;}
+#box ul li img{width:200px;height:200px;}
+
+#jvheshuju{width:1200px;height:130px;margin:20px auto;padding-top:40px;}
+#jvheshuju a{display: block;width:1200px;height:140px;text-decoration: noen;color:#2A3F54;;font-size: 40px;text-align: center;}
+
+#jvhebox{width:1200px;margin:0px auto;}
+#jvhebox span{color:#fff;font-weight: bold;}
+#jvhecontent{width:900px;margin:0px auto;}
+#jvhecontent .jvheli{width:100%;height:140px;color:#fff;margin-bottom: 30px;}
+
+#jvhecontent .jvheli .jvheimg{height:100%;width:200px;float:left;}
+#jvhecontent .jvheli .jvheimg img{width:100%;height:100%;}
+#jvhecontent .jvheli .jvhecon{float:right;width:700px;height:140px;padding:10px;}
+#jvhecontent .jvheli .jbhe_title{width:100%;height:90px;font-size:20px;word-break: break-all;text-overflow: ellipsis;display: -webkit-box;-webkit-box-orient: vertical;-webkit-line-clamp: 2;overflow: hidden;}
+#jvhecontent .jvheli .jvhecon_butt{width:100%;height:30px;line-height:30px;}
+
+#jvhecontent .moretu{width:100%;height:255px;color:#fff;margin-bottom: 30px;}
+#jvhecontent .moretu .jvheimg{width:100%;height:180px;color:#fff;float:left;}
+#jvhecontent .moretu .jvheimg img{width:277px;height:160px;margin:10px;}
+#jvhecontent .moretu .jvhecon{padding:10px;}
+#jvhecontent .moretu .jvhecon .jbhe_title{width:100%;height:40px;font-size:20px;word-break: break-all;text-overflow: ellipsis;display: -webkit-box;-webkit-box-orient: vertical;-webkit-line-clamp: 1;overflow: hidden;}
+#jvhecontent .moretu .jvhecon .jvhecon_butt{width:100%;height:30px;line-height:30px;}
+
+.text{position:relative;width:100%;height:100%;background:rgba(0,0,0,0.5);font-size:24px;color:#fff;text-align:center;}
+.text h4{width:100%;height:200px;margin:auto;padding-top:160px;}
+
+#content{width:1200px;margin:20px auto;height:200px;}
+#content img{max-width: 200px;}
+#desc{width:1200px;margin:20px auto;height:200px;}
+
+#bottom{width:1200px;margin:0px auto;color:#fff;}
+#bottom a{color:#fff;}
+#bottom ul li{list-style: none;height: 30px;}
+#bottom img{width:120px !important;margin:15px;}
+#bottom ul li i{width:15px;}
+#bottom .logo{text-align: center;}
