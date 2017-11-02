@@ -24,6 +24,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
     <link href="<%=basePath%>resource/build/css/custom.min.css" rel="stylesheet">
     <!-- sg Style -->
     <link href="<%=basePath%>resource/css/sg/sg.css" rel="stylesheet">
+	<!--李四开始修改内容-->
   </head>
   <body class="login">
     <div>
