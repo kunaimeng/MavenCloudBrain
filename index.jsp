@@ -54,8 +54,8 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 			<li style="background:url(<%=basePath%>resource/images/index/collage2.png) no-repeat center;background-size:200px 200px;">
 				<div class="text">
 					<h4>记事本&nbsp;&nbsp;云盘模拟</h4>
-			</div>
-				</li>
+				</div>
+			</li>
 		</ul>
     </div>
     <div id="jvheshuju" style="background:url(<%=basePath%>resource/images/index/5925a74831111.jpg) no-repeat center;background-size:1200px 140px;">
