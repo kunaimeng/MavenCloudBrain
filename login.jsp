@@ -124,7 +124,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
     		}
     		return false;
     	});
-    
+		<!--添加注释-->
     	$("#registersubmit").click(function(){
     		var phone= $("#userphone").val();
     		var email = $("#email").val();
